@@ -36,11 +36,11 @@ By **combining the field experiment with mathematical models** of metacommunity 
 
 ## Field experiment
 
-We moved alpine turfs from 2000 m above sea level to sites at lower elevations in the Calanda mountain, in the eastern Swiss Alps. This imposes various degrees of warming similar to what the communities will experience in the following 100 years of climate change.
+We moved alpine turfs downslope along an elevational gradient in the eastern Swiss Alps to impose increasing degrees of climate warming, similar to what these plant communities will experience in the following 100 years of climate change.
 
-[[embed url=http://www.youtube.com/watch?v=-aKZhiICIRY&t=1s]]
+{{< youtube aKZhiICIRY&t=1s >}}
 
-Novel competitors can shape plant community responses to climate change, but the timescales of their effects are poorly understood. During my PhD, I will integrate field experiments with mechanistic models to explore the relative timescales of community dynamics driven by novel competitors and by changing interactions among current competitors. 
+
 
 ## Data collection and modelling approach
 
