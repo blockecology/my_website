@@ -9,7 +9,7 @@ title = "Oak forest diversity in an heterogeneous volcanic landscape"
 summary = "Volcanic activity has created a geological mosaic that has shaped the patterns of structure and diversity of the vegetation across the landscape. "
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "tepozteco2.jpg"
+image_preview = "tepozteco2.JPG"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["PhD", "plant diversity", "Mexico"]`
@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "panotepoz.jpg"
+image = "panotepoz.JPG"
 caption = ""
 
 +++
