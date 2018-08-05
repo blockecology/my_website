@@ -6,7 +6,7 @@ date = 2016-04-27T00:00:00
 title = "Species Interactions in Warmer Alps"
 
 # Project summary to display on homepage.
-summary = "Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates. By transplanting intact alpine communities to lower elevations in the Swiss Alps we are investigating how species interactions depend on temperature and how novel competitors from lower elevations will impact the community."
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "pulsatilla_calanda.jpg"

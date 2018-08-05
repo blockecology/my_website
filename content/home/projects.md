@@ -37,8 +37,12 @@ filter_default = 0
   tag = ".PhD"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "MSc"
+  tag = ".MSc thesis"
+  
+[[filter]]
+  name = "BSc"
+  tag = ".BSc thesis"
 
 +++
 
