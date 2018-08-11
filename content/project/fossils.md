@@ -3,13 +3,13 @@
 date = 2018-08-05T00:00:00
 
 # Project title.
-title = "Species distribution modeling and fossil hunting"
+title = "Fossil hunting with statistical models"
 
 # Project summary to display on homepage.
 summary = " "
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "fossil-hunting.PNG"
+image_preview = "fossil-hunting-43.PNG"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["PhD", "plant diversity", "Mexico"]`
