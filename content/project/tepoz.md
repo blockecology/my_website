@@ -13,7 +13,7 @@ image_preview = "tepozteco2.JPG"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["PhD", "plant diversity", "Mexico"]`
-tags = ["BSc thesis", "plant diversity", "landscape heterogeneity", "Mexico"]
+tags = ["BSc", "plant diversity", "landscape heterogeneity", "Mexico"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

@@ -13,7 +13,7 @@ image_preview = "fossil-hunting-43.PNG"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["PhD", "plant diversity", "Mexico"]`
-tags = ["MSc thesis", "Australian megafauna", "statistical modeling"]
+tags = ["MSc", "Australian megafauna", "statistical modeling"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

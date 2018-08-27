@@ -38,11 +38,11 @@ filter_default = 0
 
 [[filter]]
   name = "MSc"
-  tag = ".MSc thesis"
+  tag = ".MSc"
   
 [[filter]]
   name = "BSc"
-  tag = ".BSc thesis"
+  tag = ".BSc"
 
 +++
 
