@@ -3,7 +3,7 @@
 date = 2018-08-11T00:00:00
 
 # Project title.
-title = "Drivers of Community Dynamics in Warmer Mountains"
+title = "Community Dynamics in Warmer Mountains"
 
 # Project summary to display on homepage.
 summary = ""
@@ -24,13 +24,13 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "calanda.jpg"
-caption = "My caption :smile:"
+caption = ""
 
 +++
 
 Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates. 
 
-For the main component of my doctoral research, in collaboration with [Loïc Pellisier](http://www.landecology.ethz.ch/the-group/loic-pellissier.html), and [Jake Alexander](https://alexanderecology.weebly.com/), we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation. 
+For the main component of my doctoral research, in collaboration with [Loic Pellisier](http://www.landecology.ethz.ch/the-group/loic-pellissier.html), and [Jake Alexander](https://alexanderecology.weebly.com/), we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation. 
 
 By **combining the field experiment with mathematical models** of metacommunity dynamics, I will investigate the timescales of the arrival and impact of low elevation species relative to the changes driven by changing interactions among alpine species. 
 
@@ -38,7 +38,7 @@ By **combining the field experiment with mathematical models** of metacommunity 
 
 We moved alpine turfs downslope along an elevational gradient in the eastern Swiss Alps to impose increasing degrees of climate warming, similar to what these plant communities will experience in the following 100 years of climate change.
 
-{{< youtube aKZhiICIRY&t=1s >}}
+[Watch](https://www.youtube.com/watch?v=-aKZhiICIRY) a Swiss News report about the experiment. 
 
 
 

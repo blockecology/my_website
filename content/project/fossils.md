@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2018-08-05T00:00:00
+date = 2016-08-01T00:00:00
 
 # Project title.
 title = "Fossil hunting with statistical models"

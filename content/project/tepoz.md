@@ -1,9 +1,9 @@
 +++
 # Date this page was created.
-date = 2018-08-04T00:00:00
+date = 2013-08-04T00:00:00
 
 # Project title.
-title = "Forest diversity in an heterogeneous landscape"
+title = "Forest diversity and landscape heterogeneity"
 
 # Project summary to display on homepage.
 summary = ""
