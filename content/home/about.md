@@ -7,6 +7,8 @@ date = 2016-04-20T00:00:00
 # Order that this section will appear in.
 weight = 5
 
++++
+
 # 
 
 I am a quantitative ecologist interested in how and why biodiversity changes across time and space. I use a range of approaches -- from field experiments to computer simulations -- to understand how species interactions and demography respond to environmental variation across scales. 
