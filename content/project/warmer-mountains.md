@@ -30,7 +30,7 @@ caption = ""
 
 Many of the most dramatic biological impacts of climate change are mediated by species interactions. Still, we largely ignore how climate change influences the way species interact, and how this affects community dynamics. Due to their steep climatic and ecologic gradients, mountains are excellent systems to study how species interactions will influence community dynamics in future climates. 
 
-For the main component of my doctoral research, in collaboration with [Loic Pellisier](http://www.landecology.ethz.ch/the-group/loic-pellissier.html), and [Jake Alexander](https://alexanderecology.weebly.com/), we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation. 
+For the main component of my doctoral research, in collaboration with [Loic Pellisier](http://www.landecology.ethz.ch/the-group/people/loic-pellissier.html), and [Jake Alexander](https://alexanderecology.weebly.com/), we transplanted alpine communities to lower elevations in the Swiss Alps to investigate how species interactions depend on temperature and how novel competitors from lower elevations will impact alpine vegetation. 
 
 By **combining the field experiment with mathematical models** of metacommunity dynamics, I will investigate the timescales of the arrival and impact of low elevation species relative to the changes driven by changing interactions among alpine species. 
 

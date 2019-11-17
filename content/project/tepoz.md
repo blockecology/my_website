@@ -3,7 +3,7 @@
 date = 2013-08-04T00:00:00
 
 # Project title.
-title = "Forest diversity and landscape heterogeneity"
+title = "Forest diversity in a volcanic mosaic"
 
 # Project summary to display on homepage.
 summary = ""
